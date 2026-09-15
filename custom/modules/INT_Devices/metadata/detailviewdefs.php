@@ -97,16 +97,8 @@ array (
             'name' => 'int_employees_int_devices_1_name',
           ),
         ),
-        5 => 
-        array (
-          0 => 
-          array (
-            'name' => 'int_employees_int_devices_1_name',
-          ),
-        ),
       ),
     ),
   ),
 );
-;
 ?>
