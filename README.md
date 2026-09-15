@@ -109,10 +109,8 @@ This allows the form to adapt depending on the type of device being created.
 ```text
 SuiteCRM-Internship/
 │
-├── docs/                  # Project documentation
 ├── modules/               # Custom SuiteCRM modules
 ├── custom/                # SuiteCRM customizations and extensions
-├── screenshots/           # Screenshots documenting implemented features
 │
 └── README.md
 ```
