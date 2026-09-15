@@ -6,6 +6,14 @@ $dictionary['INT_Device'] = [
 
     'fields' => [
 
+        'id' => [
+            'name' => 'id',
+            'vname' => 'LBL_ID',
+            'type' => 'id',
+            'required' => true,
+            'source' => 'db',
+        ],
+
         'asset_code' => [
             'name' => 'asset_code',
             'vname' => 'LBL_ASSET_CODE',

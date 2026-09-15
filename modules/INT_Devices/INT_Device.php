@@ -18,4 +18,9 @@ class INT_Device extends SugarBean
     {
         parent::__construct();
     }
+
+    public function get_summary_text()
+    {
+        return trim($this->asset_code);
+    }
 }
