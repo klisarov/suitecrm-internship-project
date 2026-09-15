@@ -131,6 +131,6 @@ SuiteCRM-Internship/
 
 ## Purpose
 
-This project serves as a practical learning environment for understanding how **SuiteCRM 7 works from a developer's perspective**, with a focus on PHP-based customization rather than relying exclusively on the SuiteCRM Studio interface.
+This project serves as a practical learning sandbox for understanding how **SuiteCRM 7 works from a developer's perspective**, with a focus on PHP-based customization rather than relying exclusively on the SuiteCRM Studio interface.
 
 The project is being developed incrementally throughout the internship, with new functionality and concepts being added as they are learned.
