@@ -110,11 +110,11 @@ This allows the form to adapt depending on the type of device being created.
 
 ### Validations
 
-Implemented field and business-rule validations to ensure that records contain valid and consistent data before being saved.
+TBD
 
 ### Testing
 
-Tested the implemented functionality to verify that custom modules, relationships, subpanels, Logic Hooks, JavaScript functionality, AJAX requests, validations, and other customizations work as expected.
+TBD
 
 ## Project Structure
 
