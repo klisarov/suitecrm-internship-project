@@ -40,6 +40,7 @@ $GLOBALS["tabStructure"] =array (
       3 => 'Cases',
       4 => 'Bugs',
       5 => 'INT_Devices',
+      6 => 'INT_Employees',
     ),
   ),
   'LBL_TABGROUP_ACTIVITIES' => 
