@@ -1,0 +1,29 @@
+# ==========================================
+# Ignore SuiteCRM installation by default
+# ==========================================
+
+*
+
+# ==========================================
+# Project files we DO want in Git
+# ==========================================
+
+!.gitignore
+!README.md
+!docs/
+!docs/**
+!screenshots/
+!screenshots/**
+
+# ==========================================
+# Our custom SuiteCRM modules
+# ==========================================
+
+!modules/
+!modules/INT_*/
+!modules/INT_*/**
+
+!custom/
+!custom/modules/
+!custom/modules/INT_*/
+!custom/modules/INT_*/**
