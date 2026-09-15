@@ -104,14 +104,6 @@ For example:
 
 This allows the form to adapt depending on the type of device being created.
 
-### Validations
-
-TBD
-
-### Testing
-
-TBD
-
 ## Project Structure
 
 ```text
