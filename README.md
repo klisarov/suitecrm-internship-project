@@ -26,8 +26,8 @@ This project covers the following SuiteCRM development concepts:
 
 Created and configured custom SuiteCRM modules:
 
-* **INT_Devices** — manages devices/assets
-* **INT_Employees** — manages employees
+* **Devices** — manages devices/assets
+* **Employees** — manages employees
 
 Both modules are registered in SuiteCRM and available under the **Support** category in the navigation menu.
 
