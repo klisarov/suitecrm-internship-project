@@ -19,6 +19,9 @@ $viewdefs['INT_Devices']['EditView'] = [
                 'field' => '30',
             ],
         ],
+        'includes' => [
+            ['file' => 'modules/INT_Devices/javascript/int_devices.js'],
+        ],
     ],
 
     'panels' => [
@@ -74,6 +77,9 @@ $viewdefs['INT_Devices']['EditView'] = [
                         'rows' => 4,
                         'cols' => 60,
                     ],
+                ],
+                [
+                    'name' => 'int_employees_int_devices_1_name',
                 ],
             ],
         ],

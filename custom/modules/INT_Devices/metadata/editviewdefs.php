@@ -27,6 +27,9 @@ array (
           'field' => '30',
         ),
       ),
+      'includes' => array(
+          array('file' => 'modules/INT_Devices/javascript/int_devices.js'),
+      ),
     ),
     'panels' => 
     array (
@@ -109,4 +112,3 @@ array (
     ),
   ),
 );
-?>
