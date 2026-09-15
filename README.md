@@ -57,10 +57,6 @@ Added a Devices subpanel to the Employee detail view.
 
 When viewing an employee, the subpanel displays the devices currently assigned to that employee.
 
-### Search Functionality
-
-Implemented and configured search functionality for the custom modules, allowing users to find records based on their available fields.
-
 ### Logic Hooks
 
 Implemented custom business logic using SuiteCRM Logic Hooks.
