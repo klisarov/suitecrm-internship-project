@@ -29,9 +29,8 @@ The project covers:
 - Search functionality
 - Logic Hooks
 - JavaScript integration
-- Validation
+- Validations
 - Testing
-- Technical documentation
 
 ## Project Structure
 
