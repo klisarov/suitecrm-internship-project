@@ -1,9 +1,8 @@
 <?php
- // created: 2026-09-15 09:16:35
 $layout_defs["INT_Employees"]["subpanel_setup"]['int_employees_int_devices_1'] = array (
   'order' => 100,
   'module' => 'INT_Devices',
-  'subpanel_name' => 'int_employee',
+  'subpanel_name' => 'default',
   'sort_order' => 'asc',
   'sort_by' => 'id',
   'title_key' => 'LBL_INT_EMPLOYEES_INT_DEVICES_1_FROM_INT_DEVICES_TITLE',

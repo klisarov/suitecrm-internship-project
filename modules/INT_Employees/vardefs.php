@@ -14,6 +14,49 @@ $dictionary['INT_Employee'] = [
             'source' => 'db',
         ],
 
+        'date_entered' => [
+            'name' => 'date_entered',
+            'vname' => 'LBL_DATE_ENTERED',
+            'type' => 'datetime',
+            'required' => true,
+            'source' => 'db',
+        ],
+
+        'date_modified' => [
+            'name' => 'date_modified',
+            'vname' => 'LBL_DATE_MODIFIED',
+            'type' => 'datetime',
+            'required' => true,
+            'source' => 'db',
+        ],
+
+        'modified_user_id' => [
+            'name' => 'modified_user_id',
+            'vname' => 'LBL_MODIFIED_USER_ID',
+            'type' => 'relate',
+            'reportable' => false,
+            'source' => 'db',
+            'len' => 36,
+        ],
+
+        'created_by' => [
+            'name' => 'created_by',
+            'vname' => 'LBL_CREATED',
+            'type' => 'relate',
+            'reportable' => false,
+            'source' => 'db',
+            'len' => 36,
+        ],
+
+        'deleted' => [
+            'name' => 'deleted',
+            'vname' => 'LBL_DELETED',
+            'type' => 'bool',
+            'default' => '0',
+            'required' => true,
+            'source' => 'db',
+        ],
+
         'name' => [
             'name' => 'name',
             'vname' => 'LBL_NAME',
