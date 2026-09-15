@@ -20,10 +20,46 @@
 # ==========================================
 
 !modules/
+modules/*
+!modules/INT_Devices/
+!modules/INT_Devices/**
+
+# Future internship modules
 !modules/INT_*/
 !modules/INT_*/**
 
+# ==========================================
+# Our custom SuiteCRM customizations
+# ==========================================
+
 !custom/
+custom/*
 !custom/modules/
+custom/modules/*
 !custom/modules/INT_*/
 !custom/modules/INT_*/**
+
+# ==========================================
+# Internship module registration
+# ==========================================
+
+!custom/Extension/
+!custom/Extension/application/
+!custom/Extension/application/Ext/
+!custom/Extension/application/Ext/Include/
+!custom/Extension/application/Ext/Include/INT_Devices.php
+
+# Future module extensions
+!custom/Extension/modules/
+!custom/Extension/modules/INT_*/
+!custom/Extension/modules/INT_*/**
+
+# ==========================================
+# Internship-specific custom configuration
+# ==========================================
+
+!custom/include/
+!custom/include/tabConfig.php
+
+# Do not commit SuiteCRM-generated custom files
+custom/include/tabConfig.php.backup
