@@ -26,4 +26,6 @@ $mod_strings = [
 
     'LNK_NEW_EMPLOYEE' => 'Креирај вработен',
     'LNK_EMPLOYEE_LIST' => 'Вработени',
+
+    'LBL_RECORD_BODY' => 'Информации за вработени',
 ];

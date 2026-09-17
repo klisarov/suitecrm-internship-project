@@ -26,4 +26,6 @@ $mod_strings = [
 
     'LNK_NEW_EMPLOYEE' => 'Create Employee',
     'LNK_EMPLOYEE_LIST' => 'Employees',
+
+    'LBL_RECORD_BODY' => 'Employee Information',
 ];

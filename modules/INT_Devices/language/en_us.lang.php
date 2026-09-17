@@ -28,4 +28,5 @@ $mod_strings = [
     'LNK_DEVICE_LIST' => 'Devices',
 
     'INT_Employees' => 'Employees',
+    'LBL_RECORD_BODY' => 'Device Information',
 ];

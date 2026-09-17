@@ -28,4 +28,5 @@ $mod_strings = [
     'LNK_DEVICE_LIST' => 'Уреди',
 
     'INT_Employees' => 'Вработени',
+    'LBL_RECORD_BODY' => 'Информации за уредот',
 ];
