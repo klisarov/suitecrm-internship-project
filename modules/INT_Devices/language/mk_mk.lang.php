@@ -26,4 +26,6 @@ $mod_strings = [
 
     'LNK_NEW_DEVICE' => 'Креирај уред',
     'LNK_DEVICE_LIST' => 'Уреди',
+
+    'INT_Employees' => 'Вработени',
 ];

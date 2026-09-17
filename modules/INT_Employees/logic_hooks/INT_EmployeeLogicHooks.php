@@ -22,7 +22,7 @@ class INT_EmployeeLogicHooks {
         $GLOBALS['log']->fatal('INT_EMPLOYEE HOOK: found ' . count($devices) . ' devices');
 
         foreach ($devices as $device) {
-            $GLOBALS['log']->fatal('INT_EMPLOYEE HOOK: unlinking device ' . $device->id);
+            $GLOBALS['log']->fatal('INT_EMPLOYEE HOOK: unlinking device ' . $device->id);	
             $bean->int_employees_int_devices_1->remove($device);
         }
     }

@@ -26,4 +26,6 @@ $mod_strings = [
 
     'LNK_NEW_DEVICE' => 'Create Device',
     'LNK_DEVICE_LIST' => 'Devices',
+
+    'INT_Employees' => 'Employees',
 ];
