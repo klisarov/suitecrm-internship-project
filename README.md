@@ -29,11 +29,16 @@ Created and configured custom SuiteCRM modules:
 * **Devices** — manages devices/assets
 * **Employees** — manages employees
 
+<img src="https://www.klisarov.com/img/modules.png" />
+
 Both modules are registered in SuiteCRM and available under the **Support** category in the navigation menu.
 
 ### Vardefs
 
 Defined and customized module fields using SuiteCRM vardefs, including field types, labels, default values, and other field properties.
+
+-vardefs picture
+
 
 ### Module Metadata
 
@@ -44,6 +49,8 @@ Configured module metadata files to control how records are displayed and manage
 * Edit views
 * Search layouts
 * Subpanels
+
+  -module metadata picture 
 
 ### Relationships
 
