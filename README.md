@@ -13,9 +13,7 @@ The main goal of the project is to gain practical experience with **SuiteCRM 7 d
 * SuiteCRM 7.15.2
 * PHP 8.2
 * MySQL
-* JavaScript
-* jQuery
-* AJAX
+* JavaScript (jQuery)
 * Git
 
 ## Learning Objectives
