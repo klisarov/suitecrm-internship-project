@@ -52,7 +52,7 @@ Configured module metadata files to control how records are displayed and manage
 * Subpanels
 
 <img src="http://klisarov.com/img/listviewemployees.png" />
-<img src="http://klisarov.com/img/devicedetailview.png" />
+<img src="http://klisarov.com/img/detailviewemp.png" />
 
 
 
