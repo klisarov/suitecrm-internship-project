@@ -61,13 +61,15 @@ Implemented relationships between the **Employees** and **Devices** modules.
 
 Each device can be assigned to an employee, allowing the relationship to be managed directly through SuiteCRM.
 
+<img src="http://klisarov.com/img/relationships.png" />
+
 ### Subpanels
 
 Added a Devices subpanel to the Employee detail view.
 
 When viewing an employee, the subpanel displays the devices currently assigned to that employee.
 
-<img src="http://klisarov.com/img/relationships.png" />
+<img src="http://klisarov.com/img/subpanels.png" />
 
 ### Logic Hooks
 
