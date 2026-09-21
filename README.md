@@ -53,8 +53,7 @@ Configured module metadata files to control how records are displayed and manage
 
 <img src="http://klisarov.com/img/listviewemployees.png" />
 <img src="http://klisarov.com/img/detailviewemp.png" />
-
-
+<img src="http://klisarov.com/img/editviewemp.png" />
 
 ### Relationships
 
@@ -67,6 +66,8 @@ Each device can be assigned to an employee, allowing the relationship to be mana
 Added a Devices subpanel to the Employee detail view.
 
 When viewing an employee, the subpanel displays the devices currently assigned to that employee.
+
+<img src="http://klisarov.com/img/relationships.png" />
 
 ### Logic Hooks
 
