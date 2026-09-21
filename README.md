@@ -37,7 +37,8 @@ Both modules are registered in SuiteCRM and available under the **Support** cate
 
 Defined and customized module fields using SuiteCRM vardefs, including field types, labels, default values, and other field properties.
 
--vardefs picture
+<img src="https://www.klisarov.com/img/vardefs1.png" />
+<img src="https://www.klisarov.com/img/vardefs2.png" />
 
 
 ### Module Metadata
