@@ -27,7 +27,7 @@ Created and configured custom SuiteCRM modules:
 * **Devices** — manages devices/assets
 * **Employees** — manages employees
 
-![My image]<img src="https://www.klisarov.com/img/modules.png" />
+![My image](https://www.klisarov.com/img/modules.png)
 
 Both modules are registered in SuiteCRM and available under the **Support** category in the navigation menu.
 
@@ -35,8 +35,8 @@ Both modules are registered in SuiteCRM and available under the **Support** cate
 
 Defined and customized module fields using SuiteCRM vardefs, including field types, labels, default values, and other field properties.
 
-![My image]<img src="https://www.klisarov.com/img/vardefs1.png" />
-![My image]<img src="https://www.klisarov.com/img/vardefs2.png" />
+![My image](https://www.klisarov.com/img/vardefs1.png)
+![My image](https://www.klisarov.com/img/vardefs2.png)
 
 
 ### Module Metadata
@@ -49,9 +49,9 @@ Configured module metadata files to control how records are displayed and manage
 * Search layouts
 * Subpanels
 
-![My image]<img src="http://klisarov.com/img/listview.png" />
-![My image]<img src="http://klisarov.com/img/detailview.png" />
-![My image]<img src="http://klisarov.com/img/editview.png" />
+![My image](http://klisarov.com/img/listview.png)
+![My image](http://klisarov.com/img/detailview.png)
+![My image](http://klisarov.com/img/editview.png)
 
 ### Relationships
 
@@ -59,7 +59,7 @@ Implemented relationships between the **Employees** and **Devices** modules.
 
 Each device can be assigned to an employee, allowing the relationship to be managed directly through SuiteCRM.
 
-![My image]<img src="http://klisarov.com/img/relationships.png" />
+![My image](http://klisarov.com/img/relationships.png)
 
 ### Subpanels
 
@@ -67,7 +67,7 @@ Added a Devices subpanel to the Employee detail view.
 
 When viewing an employee, the subpanel displays the devices currently assigned to that employee.
 
-![My image]<img src="http://klisarov.com/img/subpanels.png" />
+![My image](http://klisarov.com/img/subpanels.png)
 
 ### Logic Hooks
 
