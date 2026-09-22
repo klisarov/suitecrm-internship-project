@@ -49,9 +49,9 @@ Configured module metadata files to control how records are displayed and manage
 * Search layouts
 * Subpanels
 
-<img src="http://klisarov.com/img/listviewemployees.png" />
-<img src="http://klisarov.com/img/detailviewemp.png" />
-<img src="http://klisarov.com/img/editviewemp.png" />
+<img src="http://klisarov.com/img/listview.png" />
+<img src="http://klisarov.com/img/detailview.png" />
+<img src="http://klisarov.com/img/editview.png" />
 
 ### Relationships
 
