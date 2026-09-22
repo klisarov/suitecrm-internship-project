@@ -49,9 +49,9 @@ Configured module metadata files to control how records are displayed and manage
 * Search layouts
 * Subpanels
 
-![My image](http://klisarov.com/img/listview.png)
-![My image](http://klisarov.com/img/detailview.png)
-![My image](http://klisarov.com/img/editview.png)
+![My image](https://klisarov.com/img/listview.png)
+![My image](https://klisarov.com/img/detailview.png)
+![My image](https://klisarov.com/img/editview.png)
 
 ### Relationships
 
@@ -59,7 +59,7 @@ Implemented relationships between the **Employees** and **Devices** modules.
 
 Each device can be assigned to an employee, allowing the relationship to be managed directly through SuiteCRM.
 
-![My image](http://klisarov.com/img/relationships.png)
+![My image](https://klisarov.com/img/relationships.png)
 
 ### Subpanels
 
@@ -67,7 +67,7 @@ Added a Devices subpanel to the Employee detail view.
 
 When viewing an employee, the subpanel displays the devices currently assigned to that employee.
 
-![My image](http://klisarov.com/img/subpanels.png)
+![My image](https://klisarov.com/img/subpanels.png)
 
 ### Logic Hooks
 
